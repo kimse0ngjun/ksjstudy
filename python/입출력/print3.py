@@ -1,4 +1,4 @@
-# score.txt 파일을 만듦듦
+# score.txt 파일을 만듦
 # score_file = open("score.txt", "w", encoding="utf8") # w 쓰기 용도 = 덮어쓰기
 # print("수학 : 0", file=score_file)
 # print("영어 : 50", file=score_file)
